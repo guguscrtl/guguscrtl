@@ -1,13 +1,7 @@
-### Salut, je suis [Votre nom] 👋
+### Salut, je suis Ugo Scotto Lomassese 👋
 
-🔭 Actuellement, je travaille sur [Votre projet actuel]
-🌱 J'apprends actuellement [Sujet ou technologie]
-👯 Je suis ouvert à la collaboration sur [Projet ou domaine]
-🤔 Je cherche de l'aide avec [Sujet ou problème]
-💬 Posez-moi des questions sur [Sujet ou compétence]
-📫 Comment me contacter : [Votre email ou autre moyen de contact]
-😄 Pronoms : [Il/Elle/They/etc.]
-⚡ Fun fact : [Une anecdote intéressante sur vous]
+🌱 J'apprends actuellement le développement d'applications mobiles
+📫 Comment me contacter : ugo.scottolomassese@gmail.com
 
 ### Langages et outils :
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
@@ -19,8 +13,6 @@
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=guguscrtl&show_icons=true&theme=radical)
 
 ### Me suivre :
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/votre_nom/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/votre_nom)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react&logoColor=white)](https://votre_portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ugo-scotto-lomassese-33ab98265/)
 
 
