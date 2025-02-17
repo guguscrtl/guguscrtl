@@ -1,6 +1,6 @@
 ### Salut, je suis Ugo Scotto Lomassese 👋
 
-🌱 J'apprends actuellement le développement d'applications mobiles
+🌱 J'apprends actuellement le développement d'applications mobiles\n
 📫 Comment me contacter : ugo.scottolomassese@gmail.com
 
 ### Langages et outils :
