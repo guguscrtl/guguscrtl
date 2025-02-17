@@ -1,7 +1,7 @@
 ### Salut, je suis Ugo Scotto Lomassese 👋
 
 🌱 J'apprends actuellement le développement d'applications mobiles\
-📫 Comment me contacter : ugo.scottolomassese@gmail.com
+📫 Contact : ugo.scottolomassese@gmail.com
 
 ### Langages et outils :
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
